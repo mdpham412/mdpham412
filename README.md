@@ -1,5 +1,3 @@
-<h3 align="left">Hi 👋! My name is Dung (pronounced /zʊŋ˧˩˧/ not /daŋ/) and I'm a student from Viet Nam.</h3>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdpham412&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdpham412&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
